@@ -1,4 +1,5 @@
 'use strict'
+alert ("Usar la consola para esta opcion :)")
 let arreglo = [];
 // Declarando al elemento input
 let ingreso= document.querySelector("#add");

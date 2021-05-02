@@ -1,4 +1,5 @@
 'use strict'
+alert("Usar el localStorage para esta opcion :)")
 let arreglo = [];
 // Declarando al elemento input
 let ingreso= document.querySelector("#add");

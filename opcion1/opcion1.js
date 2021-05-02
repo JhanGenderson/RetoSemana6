@@ -1,5 +1,5 @@
 'use strict'
-
+alert("Usar la consola para esta opcion :)")
 let arreglo = [];
 
 let ingresoDatos = document.getElementById("contenido");
